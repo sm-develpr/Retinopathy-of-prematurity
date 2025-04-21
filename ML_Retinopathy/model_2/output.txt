@@ -1,0 +1,59 @@
+Данные прошлых эпох немного утеряны
+
+Epoch 7/30
+Train Loss: 0.5650 | Val Loss: 0.4666
+Train Recall: 0.8429 | Val Recall: 0.8777
+------------------------------------------------------------
+Epoch 8/30
+Train Loss: 0.5579 | Val Loss: 0.4023
+Train Recall: 0.8660 | Val Recall: 0.9275
+------------------------------------------------------------
+Epoch 9/30
+Train Loss: 0.5476 | Val Loss: 0.6864
+Train Recall: 0.8481 | Val Recall: 0.6307
+------------------------------------------------------------
+Epoch 10/30
+Train Loss: 0.5561 | Val Loss: 0.5479
+Train Recall: 0.8690 | Val Recall: 0.8516
+------------------------------------------------------------
+Epoch 11/30
+Train Loss: 0.5495 | Val Loss: 0.4803
+Train Recall: 0.8779 | Val Recall: 0.8255
+------------------------------------------------------------
+Epoch 12/30
+Train Loss: 0.5541 | Val Loss: 0.6484
+Train Recall: 0.8444 | Val Recall: 0.5422
+------------------------------------------------------------
+Epoch 13/30
+Train Loss: 0.5323 | Val Loss: 0.4924
+Train Recall: 0.8593 | Val Recall: 0.7917
+------------------------------------------------------------
+Epoch 14/30
+Train Loss: 0.5284 | Val Loss: 0.4916
+Train Recall: 0.8392 | Val Recall: 0.7841
+------------------------------------------------------------
+Early stopping triggered at epoch 15
+
+Final Evaluation on Test Set:
+Test Accuracy: 0.6640
+Test Precision: 0.6306
+Test Recall: 0.7899
+Test F1-score: 0.7013
+Test AUC: 0.7490
+
+Classification Report:
+Accuracy: 0.6640
+Precision: 0.6306
+Recall: 0.7899
+F1-score: 0.7013
+AUC-ROC: 0.7490
+
+
+Classification Report:
+Accuracy: 0.7640
+Precision: 0.7306
+Recall: 0.8899
+F1-score: 0.8013
+AUC-ROC: 0.7490
+
+

@@ -506,7 +506,7 @@ Classification Report:
 Accuracy: 0.7326
 Precision: 0.6825
 Recall: 0.8687
-F1-score: 0.7644
+F1-score: 0.7644    
 AUC-ROC: 0.8343
 
 Как работает AdamW отптимизация 
@@ -537,29 +537,22 @@ Train Recall: 0.8861 | Val Recall: 0.7260
 Остановлен после 5 эпохи
 2025-04-20 23:00:06.278 Python[66053:2735381] +[IMKClient subclass]: chose IMKClient_Legacy
 2025-04-20 23:00:06.278 Python[66053:2735381] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
-
 Финальная оценка по тестовой выборке (порог 30%)
 
 Classification Report (порог 30%):
-Accuracy: 0.7296
-Precision: 0.6707
-Recall: 0.9010
-F1-score: 0.7690
-AUC-ROC: 0.8584
+Accuracy: 0.7326
+Precision: 0.6753
+Recall: 0.8949
+F1-score: 0.7698
+AUC-ROC: 0.8447
 
-Classification Report (порог 30%):
-Accuracy: 0.7215
-Precision: 0.6871
-Recall: 0.9888
-F1-score: 0.8519
-AUC-ROC: 0.8884
+Для сравнения - оценка с порогом 50%:
 
 Classification Report (порог 50%):
-Accuracy: 0.7596
-Precision: 0.8107
-Recall: 0.9210
-F1-score: 0.8790
-AUC-ROC: 0.8884
+Accuracy: 0.7750
+Precision: 0.7305
+Recall: 0.8707
+F1-score: 0.7945
     
 
 """
